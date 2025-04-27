@@ -56,12 +56,6 @@ UI made using swing library. Images used are in the Images folder.
 
 By clicking on an empty (free) map cell it is possible to add new organism of any kind.
 
-### Screenshots
-![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot1.jpg)
-![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot2.jpg)
-![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot3.jpg)
-![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot4.jpg)
-
 ## Project 3 - Python
 Implemented using Python Imaging Library.
 Addition of the Cyber-sheep.
@@ -93,3 +87,22 @@ pip install Pillow
 
 ## Author
 O. Paszkiewicz 2023
+
+
+
+# Screenshots
+## CPP
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/CPP_screenshot1.jpg)
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/CPP_screenshot2.jpg)
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/CPP_screenshot3-loadfile.jpg)
+
+## Java
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot1.jpg)
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot2.jpg)
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot3.jpg)
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot4.jpg)
+
+## Python
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/Python_screenshot1.jpg)
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/Python_screenshot2.jpg)
+![image](https://github.com/MonDust/World_simulator/blob/main/Images/Python_screenshot3.jpg)
