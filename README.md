@@ -89,20 +89,19 @@ pip install Pillow
 O. Paszkiewicz 2023
 
 
-
-# Screenshots
-## CPP
+## Screenshots
+### CPP
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/CPP_screenshot1.jpg" width="300"/>
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/CPP_screenshot2.jpg" width="300"/>
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/CPP_screenshot3-loadfile.jpg" width="300"/>
 
-## Java
+### Java
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot1.jpg" width="300"/>
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot2.jpg" width="300"/>
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot3.jpg" width="300"/>
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/Java_screenshot4.jpg" width="300"/>
 
-## Python
+### Python
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/Python_screenshot1.jpg" width="300"/>
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/Python_screenshot2.jpg" width="300"/>
 <img src="https://github.com/MonDust/World_simulator/blob/main/Images/Python_screenshot3.jpg" width="300"/>
